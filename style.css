@@ -1,0 +1,16 @@
+label{
+    background-color: rgb(81, 216, 81);
+}
+body{
+    font-family: 'DM Sans', sans-serif;
+    margin: 0;
+    padding: 2px;
+    background-color: #d1c3c3;
+    
+}
+h1,p{
+    text-align: center;
+    color: green;
+    background-color: #474242;
+    font-weight:bold; 
+}
